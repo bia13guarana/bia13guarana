@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Olá, tudo bem? Me chamo Ana Beatriz 👋
 
 - 🔭 Atualmente estou em busca da minha primeira oportunidade em desenvolvimento.
-- 🌱 Estou aprendendo mais sobre Java script e alguns frameworks.
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas e também aprendendo cada vez mais sobre HTML, CSS, Java script e alguns frameworks.
 - 💬 Dúvidas ou sugestões sobre algum dos meu projetos são muito bem vindas!
 - 📫 Pode me contatar através do meu linkedin: https://www.linkedin.com/in/ana-beatriz-guaran%C3%A1-de-carvalho-73403a212/
 - ⚡ Curiosidades sobre mim: Sou formada em odontologia mas me apaixonei pela área da programação, especialmente front-end, então migrei.
